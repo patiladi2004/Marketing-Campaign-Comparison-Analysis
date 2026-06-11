@@ -9,12 +9,14 @@ Calculate key marketing metrics such as ROI, ROAS, CPC, CPL, CAC, and CTR.
 Identify high-performing and low-performing campaigns.
 Develop an interactive dashboard for campaign comparison and monitoring.
 Generate business recommendations based on data-driven insights.
+
 Technologies Used
 Python – Data Cleaning, Transformation, and Feature Engineering
 Pandas & NumPy – Data Manipulation and Analysis
 Matplotlib & Seaborn – Data Visualization
 PostgreSQL – SQL-Based Business Analysis
 Power BI – Interactive Dashboard Development
+
 Key Features
 Data preprocessing and cleaning
 Marketing KPI calculations
