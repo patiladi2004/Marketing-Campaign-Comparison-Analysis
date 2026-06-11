@@ -2,7 +2,7 @@
 
 This project analyzes marketing campaign data to evaluate campaign effectiveness, profitability, and return on investment. The goal is to transform raw marketing data into actionable business insights that help organizations optimize their marketing strategies and budget allocation.
 
-Project Objectives
+**Project Objectives**
 
 
 Analyze campaign performance across different marketing categories.
@@ -17,7 +17,7 @@ Develop an interactive dashboard for campaign comparison and monitoring.
 
 Generate business recommendations based on data-driven insights.
 
-Technologies Used
+**Technologies Used**
 
 Python – Data Cleaning, Transformation, and Feature Engineering
 
@@ -29,7 +29,7 @@ PostgreSQL – SQL-Based Business Analysis
 
 Power BI – Interactive Dashboard Development
 
-Key Features
+**Key Features**
 
 Data preprocessing and cleaning
 
@@ -41,13 +41,13 @@ ROI and ROAS Evaluation
 
 Campaign-wise Performance Comparison
 
-SQL Business Queries
+**SQL Business Queries**
 
 Interactive Power BI Dashboard
 
 Business Insights and Recommendations
 
-Dashboard Highlights
+**Dashboard Highlights**
 
 The Power BI dashboard provides:
 
@@ -63,6 +63,6 @@ Impressions, Clicks, and Orders Analysis
 
 Campaign Filtering and Interactive Exploration
 
-Business Impact
+**Business Impact**
 
 This project demonstrates how data analytics can help marketing teams identify successful campaigns, improve budget utilization, maximize return on investment, and make informed strategic decisions based on real performance data.
